@@ -1,0 +1,6 @@
+.bundle
+/config/master.key
+log/
+tmp/
+dummy_*
+config/credentials.yml.enc
